@@ -6,7 +6,7 @@
 
 # 💖 Love Calculator 💖
 
-This is a simple web application that allows users to calculate their love compatibility by entering their names. The application consists of two main pages: `love.html` for entering the names and performing the calculation, and `index.html` for displaying the result.
+This is  a simple web application that allows users to calculate their love compatibility by entering their names. The application consists of two main pages: `love.html` for entering the names and performing the calculation, and `index.html` for displaying the result.
 
 ## 🚀 Usage
 
